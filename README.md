@@ -1,20 +1,87 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🌸 Roy's World
+
+### *A Cozy Pixel-Life Relationship Simulator*
+
+<img src="https://media.giphy.com/media/your-gif-here.gif" width="650" alt="Roy's World Animation"/>
+
+<p>
+☕ Build Memories • 💕 Live Together • 🐱 Pet Cats • 🌸 Cozy Life
+</p>
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+<div align="center">
 
-View your app in AI Studio: https://ai.studio/apps/4d642d02-820a-4717-a9b7-dd0fdbf0c8d1
+### 🌷 Welcome Home
 
-## Run Locally
+> *"Every coffee shared, every hug remembered, every little moment becomes a forever memory."*
 
-**Prerequisites:**  Node.js
+</div>
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+🌸 Living AI Princess  
+☕ Cozy Bakery & Café  
+💌 Real-Time Messenger Chat  
+🐱 Interactive Cats  
+🏡 Customizable House  
+🌧️ Dynamic Weather  
+🎵 Music & Cinema  
+🎮 Mini Games  
+💖 Relationship Memory System  
+🍰 Coffee & Bakery Rewards  
+📸 Memory Album  
+🪴 Cozy Decorations  
+🌍 Living Pixel World
+
+---
+
+<div align="center">
+
+### 💕 Current World
+
+```text
+🌅 Morning
+    ☀
+🌳🌳🌳🌳🌳
+
+🐱 Miu~      👸 Roy's Princess
+               💬 "Coffee together?"
+
+      ☕☕
+     🥐🍰
+
+        🚶 Roy
+```
+
+---
+
+### ☕ Daily Couple Goals
+
+🫗 Drink Water Together
+
+🐱 Pet the Cat
+
+🍰 Visit Bakery
+
+🎬 Watch Movie
+
+🌸 Walk in the Park
+
+💌 Send Love Messages
+
+---
+
+<img src="https://media.giphy.com/media/your-second-gif.gif" width="500"/>
+
+### 🌸 Made with Love by Roy
+
+*"A world where every little interaction becomes a beautiful memory."* 💕
+
+</div>
