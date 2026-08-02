@@ -1,0 +1,6 @@
+{
+  "name": "Royland",
+  "description": "A cozy 2D pixel-art social world with real-time multiplayer movement, customizable chibi avatars, proximity chat, coffee shop, and wandering cats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

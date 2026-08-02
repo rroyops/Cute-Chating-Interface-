@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User account information and wardrobe preferences",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "username": { "type": "string", "maxLength": 64 },
+        "nickname": { "type": "string", "maxLength": 64 },
+        "role": { "type": "string", "enum": ["player", "girlfriend", "best_friend", "guest"] },
+        "catsPetted": { "type": "number" },
+        "createdAt": { "type": "number" }
+      },
+      "required": ["id", "username", "nickname", "role", "createdAt"]
+    },
+    "ChatMessage": {
+      "title": "Chat Message",
+      "description": "Public room chat or private message between users",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "fromId": { "type": "string", "maxLength": 128 },
+        "fromName": { "type": "string", "maxLength": 64 },
+        "text": { "type": "string", "maxLength": 500 },
+        "room": { "type": "string", "maxLength": 64 },
+        "isPrivate": { "type": "boolean" },
+        "toId": { "type": "string", "maxLength": 128 },
+        "timestamp": { "type": "number" }
+      },
+      "required": ["id", "fromId", "fromName", "text", "room", "isPrivate", "timestamp"]
+    },
+    "PrincessState": {
+      "title": "Princess Emotion and Outfit State",
+      "description": "Global state and emotional metrics of Princess NPC",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 64 },
+        "love": { "type": "number" },
+        "affection": { "type": "number" },
+        "trust": { "type": "number" },
+        "comfort": { "type": "number" },
+        "energy": { "type": "number" },
+        "mood": { "type": "number" },
+        "sleepiness": { "type": "number" },
+        "excitement": { "type": "number" },
+        "shyness": { "type": "number" },
+        "happiness": { "type": "number" },
+        "embarrassment": { "type": "number" },
+        "jealousy": { "type": "number" },
+        "stress": { "type": "number" },
+        "playfulness": { "type": "number" },
+        "updatedAt": { "type": "number" }
+      },
+      "required": ["id", "love", "affection", "trust", "happiness"]
+    },
+    "CatStats": {
+      "title": "Cat Stats",
+      "description": "Cat interaction counts",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 64 },
+        "name": { "type": "string", "maxLength": 64 },
+        "petCount": { "type": "number" },
+        "updatedAt": { "type": "number" }
+      },
+      "required": ["id", "name", "petCount"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Stores user profile and preferences"
+    },
+    "/messages/{messageId}": {
+      "schema": "ChatMessage",
+      "description": "Stores chat messages"
+    },
+    "/princess/{stateId}": {
+      "schema": "PrincessState",
+      "description": "Stores global princess mood and emotional state"
+    },
+    "/cats/{catId}": {
+      "schema": "CatStats",
+      "description": "Stores cat pet counts"
+    }
+  }
+}
