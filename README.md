@@ -4,10 +4,16 @@
 
 ### *A Cozy Pixel-Life Relationship Simulator*
 
-<img src="https://media.giphy.com/media/your-gif-here.gif" width="650" alt="Roy's World Animation"/>
+<img src="https://media.giphy.com/media/13Hgw8T855u52p/giphy.gif" width="650" alt="Roy's World Cozy Animation"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Cozy%20%26%20Pixel-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-ffd1dc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F-ffc0cb?style=for-the-badge" />
+</p>
 
 <p>
-☕ Build Memories • 💕 Live Together • 🐱 Pet Cats • 🌸 Cozy Life
+☕ <b>Build Memories</b> • 💕 <b>Live Together</b> • 🐱 <b>Pet Cats</b> • 🌸 <b>Cozy Life</b>
 </p>
 
 </div>
@@ -20,25 +26,22 @@
 
 > *"Every coffee shared, every hug remembered, every little moment becomes a forever memory."*
 
+<img src="https://media.giphy.com/media/mCvhU8L4Bf1iI49T8c/giphy.gif" width="280" alt="Pixel Cat GIF"/>
+
 </div>
 
 ---
 
 ## ✨ Features
 
-🌸 Living AI Princess  
-☕ Cozy Bakery & Café  
-💌 Real-Time Messenger Chat  
-🐱 Interactive Cats  
-🏡 Customizable House  
-🌧️ Dynamic Weather  
-🎵 Music & Cinema  
-🎮 Mini Games  
-💖 Relationship Memory System  
-🍰 Coffee & Bakery Rewards  
-📸 Memory Album  
-🪴 Cozy Decorations  
-🌍 Living Pixel World
+| 🌸 Living AI & World | ☕ Cozy Activities | 🎮 Interactive Fun |
+| :--- | :--- | :--- |
+| 🌸 **Living AI Princess** | ☕ **Cozy Bakery & Café** | 🐱 **Interactive Cats** |
+| 💌 **Real-Time Messenger Chat** | 🍰 **Coffee & Bakery Rewards** | 🏡 **Customizable House** |
+| 💖 **Relationship Memory System** | 📸 **Memory Album** | 🎮 **Mini Games** |
+| 🌧️ **Dynamic Weather** | 🎵 **Music & Cinema** | 🪴 **Cozy Decorations** |
+
+> 🌍 **Living Pixel World:** Watch the environment dynamically react to time, weather, and your interactions!
 
 ---
 
@@ -51,37 +54,10 @@
     ☀
 🌳🌳🌳🌳🌳
 
-🐱 Miu~      👸 Roy's Princess
+🐱 Miu~     👸 Roy's Princess
                💬 "Coffee together?"
 
-      ☕☕
+     ☕☕
      🥐🍰
 
         🚶 Roy
-```
-
----
-
-### ☕ Daily Couple Goals
-
-🫗 Drink Water Together
-
-🐱 Pet the Cat
-
-🍰 Visit Bakery
-
-🎬 Watch Movie
-
-🌸 Walk in the Park
-
-💌 Send Love Messages
-
----
-
-<img src="https://media.giphy.com/media/your-second-gif.gif" width="500"/>
-
-### 🌸 Made with Love by Roy
-
-*"A world where every little interaction becomes a beautiful memory."* 💕
-
-</div>
